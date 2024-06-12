@@ -7,6 +7,9 @@ using namespace std;
 int main()
 {
     cout << "Lets start the coding and enjoy !!\n";
+    for (int i = 0; i < 10; i++) {
+        cout << i << endl;
+    }
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
