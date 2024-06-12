@@ -6,10 +6,11 @@ using namespace std;
 
 int main()
 {
-    cout << "Lets start the coding and enjoy !!\n";
+    cout << "Print 1 to 10 here..... !!\n";
     for (int i = 0; i < 10; i++) {
         cout << i << endl;
     }
+    cout<<"Enjoy the coding and don't forget to upload to server using COMMIT and PUSH :) "
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
